@@ -1,1 +1,4 @@
 # internship_features
+
+### Details
+I did web, mobile, frontend, backend, UI/UX, AWS, and database work in my internship at ChartX, during my spring semester of junior year (2024). While I am not able to share any code, I have included some screenshots of mobile app screens with elements I designed and implemented. For this specific task, I added to our React Native codebase, troubleshooting and debugging using a phone app called Expo Go. I also used AWS to integrate these elements with the app's database. For example, to change a user's password, I made it so the associated password screen asks the user to enter their current password (which is checked for accuracy by AWS), then asks the user to enter their new password twice (and checks if the two passwords match and satisfy a list of requirements), and updates the user's password (also using AWS) if all previous steps run correctly.
